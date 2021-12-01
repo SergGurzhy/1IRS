@@ -1,4 +1,4 @@
-# 1IRS
+п»ї# 1IRS
 
-Проект из Чемпионата по надежному программированию "Software Engineers League":
+РџСЂРѕРµРєС‚ РёР· Р§РµРјРїРёРѕРЅР°С‚Р° РїРѕ РЅР°РґРµР¶РЅРѕРјСѓ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ "Software Engineers League":
 https://www.1irs.net/ru/software-engineers-league#task
