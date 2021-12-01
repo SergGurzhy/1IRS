@@ -1,15 +1,15 @@
-# Проект из Чемпионата 1IRS по надежному программированию "Software Engineers League" (https://www.1irs.net/ru/software-engineers-league#task)
+п»ї# РџСЂРѕРµРєС‚ РёР· Р§РµРјРїРёРѕРЅР°С‚Р° 1IRS РїРѕ РЅР°РґРµР¶РЅРѕРјСѓ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ "Software Engineers League" (https://www.1irs.net/ru/software-engineers-league#task)
 
-1. Комментарии по реализации и использованию сервиса смотрите файл: safe_location/service/api.py
+1. РљРѕРјРјРµРЅС‚Р°СЂРёРё РїРѕ СЂРµР°Р»РёР·Р°С†РёРё Рё РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЋ СЃРµСЂРІРёСЃР° СЃРјРѕС‚СЂРёС‚Рµ С„Р°Р№Р»: safe_location/service/api.py
 
-2. Активизируйте Virtual environment
+2. РђРєС‚РёРІРёР·РёСЂСѓР№С‚Рµ Virtual environment
 
-3. Для выполнения тестов: 
-	- Запустите сервер: 
+3. Р”Р»СЏ РІС‹РїРѕР»РЅРµРЅРёСЏ С‚РµСЃС‚РѕРІ: 
+	- Р—Р°РїСѓСЃС‚РёС‚Рµ СЃРµСЂРІРµСЂ: 
 		cd <safe_location project directory>
 	        python service\api.py
 
-	- В другой сессии консоли: 
+	- Р’ РґСЂСѓРіРѕР№ СЃРµСЃСЃРёРё РєРѕРЅСЃРѕР»Рё: 
 		cd <safe_location project directory>
 		python tests.py
 				
